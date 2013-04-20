@@ -9,6 +9,9 @@ Official Python Sources
 <a href="http://docs.python.org/3.0/whatsnew/3.0.html">Initialization Changes</a>
 <br>*Describes the changes made to the print after the print function was created for Python 3.0*
 
+<a href="http://mail.python.org/pipermail/python-3000/2006-November/004485.html">Print() Parameters</a>
+<br>*Writeen before the official PEP was proposed. Describes the parameters of the print() function.*
+
 Community Sources
 --------------------
 <a href="http://www.harshj.com/2008/12/09/the-new-print-function-in-python-3/">Harsh J Blog Post</a>
