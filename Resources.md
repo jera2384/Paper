@@ -10,7 +10,7 @@ Official Python Sources
 <br>*Describes the changes made to the print after the print function was created for Python 3.0*
 
 <a href="http://mail.python.org/pipermail/python-3000/2006-November/004485.html">Print() Parameters</a>
-<br>*Writeen before the official PEP was proposed. Describes the parameters of the print() function.*
+<br>*Written before the official PEP was proposed. Describes the parameters of the print() function.*
 
 Community Sources
 --------------------
