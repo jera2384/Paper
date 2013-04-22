@@ -90,8 +90,9 @@ above, but now the print is used as it would be in Python 3.0 and onward, with p
           
           print (coal,"shoes")
           
-###Community Response###    
+###Community Response###
 
-The community response to this change was generally positive. 
+The community response to this change was generally positive. Print was made similar to other language's versions of 
+printing output, which allows for 
 
 ###Overall Analysis###
