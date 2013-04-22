@@ -93,6 +93,18 @@ above, but now the print is used as it would be in Python 3.0 and onward, with p
 ###Community Response###
 
 The community response to this change was generally positive. Print was made similar to other language's versions of 
-printing output, which allows for 
+printing output, which allows for well seasoned programmers to utilize print in a way that they feel is both familiar 
+and accomidating enough for what they expect. Print can be used with any other function and more flexibly in the code, 
+which is better in line with what software developers would hope fore.
 
-###Overall Analysis###
+For people who are new to programming and come to Python, the print statement can still be made as a friendly function. 
+The implementation methods used while print was a statement still work for print as a function; that is, simply putting words 
+in the double quotation marks yields a simple print statement, so there is backwards compatibility for easier-thinking programmers. 
+Overall, this change makes print ore accessable for all types of programmers in the Python community, which is why 
+the move was made without many complications of complaints from the community.
+
+###Conclusion###
+
+The decision to move print from a statement to a function was overall a good idea. The community has since felt that print can now 
+meet its more complicated demands when necessary without being overly complicated for the new users. The power and funcationality 
+of the new print since Python 3.0 fits in much better with Python's feel as a language, as it still is simple, fast, and powerful. 
