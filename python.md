@@ -48,6 +48,8 @@ This print has unique syntax compared to other output methods, and is not as sop
 
 #Reasons for Change#
 
+Print as a state was clunky and couldn't be entwined with other Python functions. It didn't meet Python's mission statement.
+
 Python's Print was in Guido's "Python Regrets" presentation.
 
 #Reasons for Change#
